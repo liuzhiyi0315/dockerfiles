@@ -1,6 +1,6 @@
-FROM debian:jessie
+FROM ubuntu:latest
 
-MAINTAINER snowdream <yanghui1986527@gmail.com>
+MAINTAINER liuzhiyi <liuzhiyi@gmail.com>
 
 ENV DEBIAN_FRONTEND noninteractive
 
